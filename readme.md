@@ -32,26 +32,26 @@ A hosted AD which can be used as, an AD.
 
 And used as for Azure Cloud permission model.
 
-- I find it unclear if what im configuring. 👎
+- I find it unclear what im configuring. 👎
   - Could be custom users / groups /roles on Application level.
   - Could be system accounts on Infrastructure level.
 - Sort of good to have both. 👍
 
 ## Azure Cloud
 
-Single sign on using azure login.
-
-- Account (azure login)
-
 Azure Cloud resource grouping. 👍
 
 - Subscription
 - Resource Group
 
+Single sign on using azure login can have access to multiple subscriptions.
+
+- Account (azure login)
+
 ## Documentation
 
 - https://docs.microsoft.com/en-us/azure/
-- https://docs.microsoft.com/en-us/azure/devops/
+- https://docs.microsoft.com/en-us/azure/devops/ seems related 👎
 - https://docs.microsoft.com/en-us/azure/active-directory/
 
 Google works well for search.
@@ -60,8 +60,10 @@ Example: https://docs.microsoft.com/en-us/azure/app-service/
 
 ![app-service-documentation](./app-service-documentation.png)
 
-Read the overview!
+Read the "overview"! 👍
 (Even if the documentation emphasizes quickstarts more).
+
+"Concepts" can also be great. 👍
 
 ### Compute decision tree
 
